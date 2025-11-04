@@ -67,5 +67,4 @@ La aplicación incluirá las siguientes funcionalidades principales:
 - **Monetización:** Publicidad + pagos integrados  
 
 ---
-
-## 📂 Estructura del Repositorio
+-- Se subio el rar del proyecto solo se debe descargar e iniciar en android studio
