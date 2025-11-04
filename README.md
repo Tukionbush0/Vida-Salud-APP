@@ -6,7 +6,6 @@ Este repositorio contiene el **informe del caso semestral** sobre el desarrollo 
 
 ## 👥 Integrantes
 - Tomás López Fuenzalida  
-- Gabriel Altamirano  
 
 ---
 
